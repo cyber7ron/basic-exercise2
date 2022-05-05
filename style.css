@@ -1,0 +1,36 @@
+
+.container {
+    margin-left: 100px;
+    margin-right: 100px;
+    border: 1px solid;
+}
+
+/* college logo*/
+.logo {
+    width: 240px;
+    height: 150 px;
+    
+}
+
+.bottom {
+    position: absolute;
+    bottom: 0;
+    text-align: right;
+    
+}
+
+/*hyperlinks*/
+
+.hyperlinks {
+    text-align: center;
+    font: "Monotype Corsiva";
+    font-size: 18pt;
+}
+
+footer {
+    text-align: center;
+    border: 2px solid;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: blue;
+}
